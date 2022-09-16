@@ -1,0 +1,4 @@
+Git permite la creacion de ramas lo que permite tener distintas versiones del mismo proyexto y trabajar de manera simultanea en ellas.[D[H[C[C[C[F[F
+
+
+[C[C[C[C[B[C[C[C[C[C[C[C[[[Ccc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cproyecto y trabajar de manera simultanea en ellas.
